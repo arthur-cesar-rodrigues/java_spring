@@ -1,0 +1,1 @@
+Uma classe abstrata pode ter ou não métodos abstratos e uma classe deste tipo pode ser herdada por outras classes (herda código), já uma classe interface tem apenas métodos abstratos (somente declara o método) e pode ser implementados em outras classes (herda comportamento).
